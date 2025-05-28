@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Christian Ang, a Math/CS Major at CMU; aspiring to work in the fields of AI/ML/SWE or Math !
+I am Christian Ang, a Math/CS Major at CMU !
 
 I have experience in: Python, Typescript, Javascript, CSS, SML, C, Lean, Git
 
