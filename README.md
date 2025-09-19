@@ -15,6 +15,7 @@ I am **Christian Ang**, a Math/CS Major at CMU! 🎓
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40"/>
   <img src="https://skillicons.dev/icons?i=c" alt="C" height="40"/>
   <img src="https://skillicons.dev/icons?i=go" alt="Go" height="40"/>
+  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" height="40"/>
   <img src="https://img.shields.io/badge/SML-red?style=for-the-badge&logo=databricks&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Lean-4B8BBE?style=for-the-badge&logo=leanpub&logoColor=white" height="30"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40"/>
@@ -23,8 +24,10 @@ I am **Christian Ang**, a Math/CS Major at CMU! 🎓
 #### Frameworks, Libraries, & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=react" alt="React.js" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="40"/>
   <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="40"/>
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="40"/>
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" height="40"/>
   <img src="https://img.shields.io/badge/Axios-671ddf?style=for-the-badge&logo=axios&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="30"/>
 
@@ -33,6 +36,7 @@ I am **Christian Ang**, a Math/CS Major at CMU! 🎓
   <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" height="40"/>
   <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" height="40"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="40"/>
+  <img src="https://img.shields.io/badge/MiniLM-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Annoy-7f5af0?style=for-the-badge&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="30"/>
 
