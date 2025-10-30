@@ -5,6 +5,7 @@ I am **Christian Ang**, a Math/CS Major at CMU! 🎓
 ---
 
 ### 🛠️ Languages & Tools
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=porkboi&hide=contribs,prs)
 
 #### Programming Languages
 <p>
